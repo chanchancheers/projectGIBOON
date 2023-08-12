@@ -1,14 +1,13 @@
 # (1) Project. GIBOON?
-## Objective
-> 뭐시기 저시기
-#### Goal 1
-> 뭐시기 저시기
-#### Goal 2
-> 뭐시기 저시기
-#### Goal 3
+#### Objective
 > 뭐시기 저시기
 
-# (2) Role
+# (2) Goals
+#### Goal 1 : 뭐시기 저시기
+#### Goal 2 : 뭐시기 저시기
+#### Goal 3 : 뭐시기 저시기
+
+# (3) Role
 #### `Apache Kafka`
 > `shin`
 #### `Logstash`
@@ -20,6 +19,6 @@
 #### TensorFlow
 > `bahk` & shin
 
-# (3) ETC
-#### ETC
+# (4) ETC
+#### 뭐게?
 > [순환참조](https://github.com/chanchancheers/projectGIBOON) </br>
